@@ -2,7 +2,7 @@
 # Kağıt İşleri Cehennemi v1.0 - Resmi Sürüm
 # Çalıştırmak için: python cehennem.py
 # Uyarı: Bir kez başladınız mı, çıkış yoktur (Ctrl+C teknik olarak mümkün ama sistem şüpheyle bakar).
-# Gizli not: YnVyb2tyYXNpIGNlaGVubmVtaQ== (kimse decode etmez zaten)
+# Gizli not: YnVyb2tyYXNpIGhhbGtpIGV6ZXI= (kimse decode etmez zaten, merak etme)
 
 import time
 import random
